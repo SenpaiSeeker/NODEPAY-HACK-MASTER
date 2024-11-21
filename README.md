@@ -92,7 +92,7 @@ pkg install nano
 
 git clone https://github.com/OptimalGrowYT/NODEPAY-HACK-MASTER.git
 
-cd NODEPAY-HACK-MASTER
+cd NODEPAY-HACK-MASTER-main
 
 nano Token.txt
 
