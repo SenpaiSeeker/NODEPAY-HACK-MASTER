@@ -1,0 +1,6 @@
+axios
+Winston
+inquirer@6
+colors
+socks-proxy-agent
+gradient-string
