@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios",
+    "Winston",
+    "inquirer",
+    "colors",
+    "socks-proxy-agent",
+    "gradient-string"
+  }
+}
