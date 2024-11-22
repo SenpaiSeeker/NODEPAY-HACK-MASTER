@@ -5,6 +5,6 @@
     "inquirer",
     "colors",
     "socks-proxy-agent",
-    "gradient-string"
+    "gradient-string",
   }
 }
